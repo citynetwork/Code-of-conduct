@@ -274,8 +274,7 @@ The best approach under all circumstances is to be open and transparent with all
 ### 12.1. Personal investments
 If you have outside investments in companies that have a relation to City Network. Be it a competitor, partner, customer or supplier. Make sure you discuss this with your manager or the compliance team to determine if there is a conflict of interest.
 
-### 12.2. Outside employment, advisory roles, board seats, and starting
-your own business
+### 12.2. Outside employment, advisory roles, board seats, and starting your own business
 Make sure to be open and transparent with any outside employment or any type of outside activities that pays you money. If you are thinking of starting your own company make sure you discuss it with your manager or the compliance team first.
 
 ### 12.3. Business opportunities found through work
@@ -315,7 +314,7 @@ Always interact with customer-controlled data at an infrastructure level. Never 
 As a supplier of infrastructure, our main responsibility in regards to data processing is to meet the technical and organizational security measures set by GDPR. This is done by following the security goals set by ENISA.
 
 ### 13.2. ENISA Cybersecurity goals
-1. protecting data against accidental or unauthorized storage, processing, access, disclosure, destruction, loss, or alteration,
+1. Protecting data against accidental or unauthorized storage, processing, access, disclosure, destruction, loss, or alteration,
 2. ensuring that only authorized persons, programs, and machines can access the protected
 data,
 3. recording any transactions related to the protected data,
