@@ -305,8 +305,7 @@ We encourage our staff to use and experiment with our own services but you shoul
 
 ```
 
-## 13. Privacy and the rights of the Subjects according
-to GDPR
+## 13. Privacy and the rights of the Subjects according to GDPR
 
 ### 13.1. Obligations as a data processor
 City Network as an infrastructure provider always functions as a processor in regards to the processing of personal data where the customer is the controller. Make sure never to interact with individual records of personal data that is controlled by the customer. 
