@@ -35,14 +35,11 @@ Stockholm the 16th of October 2020
 ```  
 
 ## Witness of signature
+I Willy Witness (19650101-9111) promises on my honor that the foregoing has been informed of the contents of this publication and certifies the accuracy of the above-mentioned self-signature. I am aware that erroneously signing this witnessing is regarded as an Untrue Statement.  
 
-<!---
-I <witness name> promises on my honor that the foregoing has been informed of the contents of this publication and certifies the accuracy of the above-mentioned self-signature. I am aware that erroneously signing this witnessing is regarded as an Untrue Statement.
---->
+![Willy Witness signature](./willy_witness_signature.jpg)
 
-<!---
-![<witness name>s signature](./<witnessname>_signature.jpg)
---->
+Stockholm the 16th of October 2020
 
 ``` 
 
