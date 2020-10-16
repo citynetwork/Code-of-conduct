@@ -26,6 +26,8 @@ I Jane Doe promise, on my honor, that I have read and understood my rights and o
 
 ![Jane Doe signature](./jane_doe_signature.jpg)
 
+Stockholm the 16th of October 2020
+
 ``` 
 
 
