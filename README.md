@@ -22,7 +22,7 @@ In order for this to be binding and still be done digital we will use git to sig
 ```
   
 ## Signature
-I Jane Doe promise, on my honor, that I have read and understood my rights and obligations in this code and that I will execute it to the best of my abilities. I am aware that erroneously signing this code is regarded as an Untrue Statement.
+I Jane Doe (19730101-9000), promise, on my honor, that I have read and understood my rights and obligations in this code and that I will execute it to the best of my abilities. I am aware that erroneously signing this code is regarded as an Untrue Statement.
 
 ![Jane Doe signature](./jane_doe_signature.jpg)
 
